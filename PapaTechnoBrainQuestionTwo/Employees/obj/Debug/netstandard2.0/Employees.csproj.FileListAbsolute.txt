@@ -1,0 +1,15 @@
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\Employees\bin\Debug\netstandard2.0\Employees.deps.json
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\Employees\bin\Debug\netstandard2.0\Employees.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\Employees\bin\Debug\netstandard2.0\Employees.pdb
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.AssemblyInfoInputs.cache
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.AssemblyInfo.cs
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.pdb
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\bin\Debug\netstandard2.0\Employees.deps.json
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\bin\Debug\netstandard2.0\Employees.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\bin\Debug\netstandard2.0\Employees.pdb
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.csprojAssemblyReference.cache
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.AssemblyInfoInputs.cache
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.AssemblyInfo.cs
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\Employees\obj\Debug\netstandard2.0\Employees.pdb

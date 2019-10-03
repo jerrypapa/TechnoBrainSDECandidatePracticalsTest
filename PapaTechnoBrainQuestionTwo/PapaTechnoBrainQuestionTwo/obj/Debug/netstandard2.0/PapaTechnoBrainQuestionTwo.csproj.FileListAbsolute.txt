@@ -1,0 +1,14 @@
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\bin\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.deps.json
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\bin\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\bin\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.pdb
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.AssemblyInfoInputs.cache
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.AssemblyInfo.cs
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.pdb
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\bin\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.deps.json
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\bin\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\bin\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.pdb
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.AssemblyInfoInputs.cache
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.AssemblyInfo.cs
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.dll
+C:\Users\jbrad\source\repos\PapaTechnoBrain\PapaTechnoBrainQuestionTwo\PapaTechnoBrainQuestionTwo\obj\Debug\netstandard2.0\PapaTechnoBrainQuestionTwo.pdb
